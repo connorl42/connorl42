@@ -1,9 +1,7 @@
 <h1 align="center">Hi, my name is Connor LaForte</h1>
 <h3 align="center">Student junior developer</h3>
 
-- I’m currently working on **UE5 Indie Game**
-
-- 🌱 I’m currently learning **Unreal Engine**
+- 🌱 I’m currently learning **Swift**
 
 - Most of my projects are available at [https://github.com/connorl42](https://github.com/connorl42)
 
